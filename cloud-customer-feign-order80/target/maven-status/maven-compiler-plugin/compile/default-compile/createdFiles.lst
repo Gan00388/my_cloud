@@ -1,0 +1,5 @@
+com\atguigu\cloud\controller\OrderCircuitController.class
+com\atguigu\cloud\controller\OrderController.class
+com\atguigu\cloud\MainFeign80.class
+com\atguigu\cloud\controller\OrderMicrometerController.class
+com\atguigu\cloud\config\FeignConfig.class

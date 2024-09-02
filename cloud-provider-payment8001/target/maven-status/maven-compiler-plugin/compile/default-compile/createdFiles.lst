@@ -1,0 +1,10 @@
+com\atguigu\cloud\controller\PayGateWayController.class
+com\atguigu\cloud\controller\PayMicrometerController.class
+com\atguigu\cloud\Main8001.class
+com\atguigu\cloud\mapper\PayMapper.class
+com\atguigu\cloud\service\impl\PayServiceImpl.class
+com\atguigu\cloud\controller\PayController.class
+com\atguigu\cloud\config\Swagger3Config.class
+com\atguigu\cloud\controller\PayCircuitController.class
+com\atguigu\cloud\entities\Pay.class
+com\atguigu\cloud\service\PayService.class
